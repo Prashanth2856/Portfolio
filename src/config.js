@@ -20,7 +20,7 @@ module.exports = {
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/prashanth-dyavanapally-3a681920b/',
+      url: 'https://www.linkedin.com/in/prashanth-dyavanapally/',
     },
   ],
 
